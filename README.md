@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrés Quesada González  
 
-🎓 Computer Science & Engineering student @ Universidad de Costa Rica (Expected 2026)  
+🎓 Computer Science & Engineering student @ Universidad de Costa Rica
 💼 Focus: Software Development • Automation • Systems  
 🌍 San José, Costa Rica  
 ✉️ [andresquesadagon4@gmail.com](mailto:andresquesadagon4@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/andresquesadag)  
